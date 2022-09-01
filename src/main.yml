@@ -1,25 +1,33 @@
 ---
-# 1期生出身 (https://prtimes.jp/main/html/rd/p/000000003.000030865.html)
+# 1期生 (https://prtimes.jp/main/html/rd/p/000000003.000030865.html)
 - name: 月ノ 美兎
   kana: つきの みと
+  label: 1802-mito
 
 - name: 勇気 ちひろ
   kana: ゆうき ちひろ
+  label: 1802-chihiro
 
 - name: える
   kana: える
+  label: 1802-elu
 
 - name: 樋口 楓
   kana: ひぐち かえで
+  label: 1802-kaede
 
 - name: 静 凛
   kana: しずか りん
+  label: 1802-rin
 
 - name: 渋谷 ハジメ
   kana: しぶや はじめ
+  label: 1802-hajime
 
 - name: 鈴谷 アキ
   kana: すずや あき
+  label: 1802-aki
 
 - name: モイラ
   kana: もいら
+  label: 1802-moira

@@ -3,9 +3,12 @@ require 'nkf'
 require 'yaml'
 
 class VCard
+  attr_reader :label
+
   def initialize map
     @name = map[:name]
     @kana = NKF.nkf('-w --katakana', map[:kana])
+    @label = map[:label]
   end
 
   def separate_name
@@ -43,9 +46,14 @@ def load_data filename
   end
 end
 
+def save_data path, vcard
+  filename = "#{path}/#{vcard.label}.vcf"
+  File.open(filename, 'w') do |f|
+    f.write vcard.to_s
+  end
+end
+
 arr = load_data('src/main.yml')
 arr.each do |h|
-  v = VCard.new(h)
-  puts v.to_s
-  puts ""
+  save_data("dist/", VCard.new(h))
 end
