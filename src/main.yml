@@ -1,5 +1,7 @@
 ---
+#
 # 1期生 (https://prtimes.jp/main/html/rd/p/000000003.000030865.html)
+#
 - name: 月ノ 美兎
   kana: つきの みと
   label: 1802-mito
@@ -31,3 +33,46 @@
 - name: モイラ
   kana: もいら
   label: 1802-moira
+
+#
+# 2期生 (https://prtimes.jp/main/html/rd/p/000000006.000030865.html)
+#
+- name: 鈴鹿 詩子
+  kana: すずか うたこ
+  label: 1803-utako
+
+- name: 宇志海 いちご
+  kana: うしみ いちご
+  label: 1803-ichigo
+
+- name: 家長 むぎ
+  kana: いえなが むぎ
+  label: 1803-mugi
+
+- name: 夕陽 リリ
+  kana: ゆうひ りり
+  label: 1803-riri
+
+- name: 物述 有栖
+  kana: もののべ ありす
+  label: 1803-alice
+
+- name: 文野 環
+  kana: ふみの たまき
+  label: 1803-tamaki
+
+- name: 伏見 ガク
+  kana: ふしみ がく
+  label: 1803-gaku
+
+- name: ギルザレンⅢ世
+  kana: ぎるざれんさんせい
+  label: 1803-gilzaren
+
+- name: 剣持 刀也
+  kana: けんもち とうや
+  label: 1803-toya
+
+- name: 森中 花咲
+  kana: もりなか かざき
+  label: 1803-kazaki
