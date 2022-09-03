@@ -76,3 +76,14 @@
 - name: 森中 花咲
   kana: もりなか かざき
   label: 1803-kazaki
+
+#
+# ゲーマーズ第1弾 (https://prtimes.jp/main/html/rd/p/000000009.000030865.html)
+#
+- name: 叶
+  kana: かなえ
+  label: 1805-kanae
+
+- name: 赤羽 葉子
+  kana: あかばね ようこ
+  label: 1805-youko
