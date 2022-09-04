@@ -87,3 +87,58 @@
 - name: 赤羽 葉子
   kana: あかばね ようこ
   label: 1805-youko
+
+#
+# SEEDs1期 (https://prtimes.jp/main/html/rd/p/000000012.000030865.html)
+#
+- name: ドーラ
+  kana: どーら
+  label: 1806-dola
+
+- name: 海夜叉 神
+  kana: うみやしゃ のかみ
+  label: 1806-umiyasya
+
+- name: 名伽尾 アズマ
+  kana: なかお あずま
+  label: 1806-azuma
+
+- name: 出雲 霞
+  kana: いずも かすみ
+  label: 1806-kasumi
+
+- name: 轟 京子
+  kana: とどろき きょうこ
+  label: 1806-kyoko
+
+- name: シスター・クレア
+  kana: しすたーくれあ
+  label: 1806-claire
+
+- name: 花畑 チャイカ
+  kana: はなばたけ ちゃいか
+  label: 1806-chaika
+
+- name: 社 築
+  kana: やしろ きずく
+  label: 1806-kizuku
+
+- name: 安土 桃
+  kana: あづち もも
+  label: 1806-momo
+
+- name: 鈴木 勝
+  kana: すずき まさる
+  label: 1806-masaru
+
+- name: 卯月 コウ
+  kana: うづき こう
+  label: 1806-kou
+
+- name: 緑仙
+  kana: りゅーしぇん
+  label: 1806-ryushen
+
+- name: 八朔 ゆず
+  kana: はっさく ゆず
+  label: 1806-yuzu
