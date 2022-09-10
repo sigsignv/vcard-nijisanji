@@ -217,3 +217,34 @@
 - name: 舞元 啓介
   kana: まいもと けいすけ
   label: 1808-keisuke
+
+#
+# SEEDs2期生第2弾 (https://prtimes.jp/main/html/rd/p/000000023.000030865.html)
+#
+- name: 竜胆 尊
+  kana: りんどう みこと
+  label: 1808-mikoto
+
+- name: でびでび・でびる
+  kana: でびでびでびる
+  label: 1808-debiru
+
+- name: 桜 凛月
+  kana: さくら りつき
+  label: 1808-ritsuki
+
+- name: 町田 ちま
+  kana: まちた ちま
+  label: 1808-chima
+
+- name: 月見 しずく
+  kana: つきみ しずく
+  label: 1808-shizuku
+
+- name: ジョー・力一
+  kana: じょーりきいち
+  label: 1808-rikiichi
+
+- name: 遠北 千南
+  kana: あちきた ちなみ
+  label: 1808-chinami
