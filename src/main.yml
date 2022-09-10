@@ -142,3 +142,17 @@
 - name: 八朔 ゆず
   kana: はっさく ゆず
   label: 1806-yuzu
+
+#
+# VOIZ (https://prtimes.jp/main/html/rd/p/000000016.000030865.html)
+#
+- name: 春崎 エアル
+  kana: はるさき えある
+  label: 1806-air
+
+- name: 成瀬 鳴
+  kana: なるせ なる
+  label: 1806-naru
+
+# 黒羽 黒兎（くろはね くろと）
+# 神成 ポアロ（かみなり ぽあろ）
