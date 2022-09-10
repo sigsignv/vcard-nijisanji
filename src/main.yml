@@ -89,7 +89,7 @@
   label: 1805-youko
 
 #
-# SEEDs1期 (https://prtimes.jp/main/html/rd/p/000000012.000030865.html)
+# SEEDs1期生 (https://prtimes.jp/main/html/rd/p/000000012.000030865.html)
 #
 - name: ドーラ
   kana: どーら
@@ -190,3 +190,30 @@
 - name: 椎名 唯華
   kana: しいな ゆいか
   label: 1807-yuika
+
+#
+# SEEDs2期生第1弾 (https://prtimes.jp/main/html/rd/p/000000021.000030865.html)
+#
+- name: 神田 笑一
+  kana: かんだ しょういち
+  label: 1808-shoichi
+
+- name: 鳴門 こがね
+  kana: なると こがね
+  label: 1808-kogane
+
+- name: 飛鳥 ひな
+  kana: あすか ひな
+  label: 1808-hina
+
+- name: 雨森 小夜
+  kana: あめもり さよ
+  label: 1808-sayo
+
+- name: 鷹宮 リオン
+  kana: たかみや りおん
+  label: 1808-rion
+
+- name: 舞元 啓介
+  kana: まいもと けいすけ
+  label: 1808-keisuke
