@@ -248,3 +248,22 @@
 - name: 遠北 千南
   kana: あちきた ちなみ
   label: 1808-chinami
+
+#
+# SEEDs2期生第3弾 (https://prtimes.jp/main/html/rd/p/000000027.000030865.html)
+#
+- name: ベルモンド・バンデラス
+  kana: べるもんどばんでらす
+  label: 1809-belmond
+
+- name: 矢車 りね
+  kana: やぐるま りね
+  label: 1809-rine
+
+- name: 夢追 翔
+  kana: ゆめおい かける
+  label: 1809-kakeru
+
+- name: 黒井 しば
+  kana: くろい しば
+  label: 1809-shiba
