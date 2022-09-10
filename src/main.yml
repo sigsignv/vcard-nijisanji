@@ -171,3 +171,22 @@
 - name: 本間 ひまわり
   kana: ほんま ひまわり
   label: 1807-himawari
+
+#
+# ゲーマーズ第3弾 (https://prtimes.jp/main/html/rd/p/000000020.000030865.html)
+#
+- name: 魔界ノ りりむ
+  kana: まかいの りりむ
+  label: 1807-ririmu
+
+- name: 葛葉
+  kana: くずは
+  label: 1807-kuzuha
+
+- name: 雪汝
+  kana: せつな
+  label: 1807-setsuna
+
+- name: 椎名 唯華
+  kana: しいな ゆいか
+  label: 1807-yuika
